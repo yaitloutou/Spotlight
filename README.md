@@ -4,4 +4,6 @@ from its default location, add JPEG extension to each one, then copy it to:
 `%USERPROFILE% \ Picture \ Spotlight`
 
 ---
-thx: [tekrevue](https://www.tekrevue.com/tip/find-windows-spotlight-lock-screen-images-windows-10/)  
+ref: 
+* [tekrevue](https://www.tekrevue.com/tip/find-windows-spotlight-lock-screen-images-windows-10/)
+* [c|net](https://www.cnet.com/how-to/where-to-find-the-windows-spotlight-photos/)
